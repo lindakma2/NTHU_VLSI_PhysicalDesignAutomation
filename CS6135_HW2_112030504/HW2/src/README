@@ -1,0 +1,15 @@
+(2)	--- How to compile ---
+command:  $ make
+To generate the executable file "hw2" in "HW2/bin/"
+command:  $ make clean
+To remove the executable file in "HW2/bin/"
+--- How to run ---
+In this directory , enter the following command:
+command:  ../bin/<exe> <testcase file> <output file>
+ex. : 
+$ ../bin/hw2 ../testcases/public1.txt ../output/output1.out
+
+In "HW2/bin/" , enter the following command:
+command:  ./<exe> <testcase file> <output file>
+ex. :
+$ ./hw2 ../testcases/public1.txt ../output/output1.out
