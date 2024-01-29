@@ -1,0 +1,15 @@
+--- How to compile ---
+command:  $ make
+To generate the executable file "hw3" in "HW3/bin/"
+command:  $ make clean
+To remove the executable file in "HW3/bin/"
+--- How to run ---
+In this directory , enter the following command:
+command:  ../bin/<exe> <testcase file> <output file>
+ex. : 
+$ ../bin/hw2 ../testcases/public1.txt ../output/public1.floorplan
+
+In "HW2/bin/" , enter the following command:
+command:  ./<exe> <testcase file> <output file>
+ex. :
+$ ./hw2 ../testcases/public1.txt ../output/public1.floorplan
